@@ -2,17 +2,17 @@
 
 ## Prerequisites
 
- 1. API Location ID 
- 2. Developer ID 
- 3. User ID -- unique per user / account / sub
+ 1. API Location ID -- **>>Need to find out**
+ 2. Developer ID -- unique for PAYDC
+ 3. User ID -- unique per user / account / subscription
  4. User API Key -- unique per user
  5. URL  -- Should be unique
 
- ## Structure
+ ## DB Structure
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyMDUzMDg3LDE2NDE4MDY0NDFdfQ==
+eyJoaXN0b3J5IjpbLTg4Mzg3NjExMSwxNjQxODA2NDQxXX0=
 -->
