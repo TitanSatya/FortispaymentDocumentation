@@ -10,11 +10,12 @@
 
  ## DB Structure
 ### Card Transaction Log
->**Order ID**
+>**Order ID** : we need to find out the changes to be done.
+>**
  
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxOTE3NzM5LC0xNzA3MjgxODI0LC04OD
-M4NzYxMTEsMTY0MTgwNjQ0MV19
+eyJoaXN0b3J5IjpbLTE5MzMwNzc5MzcsLTE3MDcyODE4MjQsLT
+g4Mzg3NjExMSwxNjQxODA2NDQxXX0=
 -->
