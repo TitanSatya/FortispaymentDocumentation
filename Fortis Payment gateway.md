@@ -17,9 +17,10 @@
 >**FK_MerchantAccountID**: Should be null.
 
  
- ### Card Transactyion
+ ### Card Transaction His
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjQ1NjUzNCwtMzkwNjUxNTgsLTE3MD
-cyODE4MjQsLTg4Mzg3NjExMSwxNjQxODA2NDQxXX0=
+eyJoaXN0b3J5IjpbNDYwMjgzMDY5LC01NjI0NTY1MzQsLTM5MD
+Y1MTU4LC0xNzA3MjgxODI0LC04ODM4NzYxMTEsMTY0MTgwNjQ0
+MV19
 -->
