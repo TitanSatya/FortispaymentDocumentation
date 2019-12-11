@@ -9,10 +9,12 @@
  5. URL  -- Should be unique
 
  ## DB Structure
+### Card Transaction Log
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Mzg3NjExMSwxNjQxODA2NDQxXX0=
+eyJoaXN0b3J5IjpbMzA4MDY1MDQyLC04ODM4NzYxMTEsMTY0MT
+gwNjQ0MV19
 -->
