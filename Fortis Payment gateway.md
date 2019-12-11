@@ -6,8 +6,11 @@
  2. Developer ID 
  3. User ID 
  4. User API Key 
- 5. 
+ 5. URL 
+
+### API Location ID
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTgwNjQ0MV19
+eyJoaXN0b3J5IjpbODg4NDYyNjYzLDE2NDE4MDY0NDFdfQ==
 -->
