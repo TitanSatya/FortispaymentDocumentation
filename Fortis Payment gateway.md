@@ -11,7 +11,7 @@
  ## DB Structure
 ### Card Transaction Log
  
-|                |ASCII                          |HTML                         |
+|                |Column Name|HTML                         |
 |----------------|-------------------------------|-----------------------------|
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
@@ -19,6 +19,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDcyODE4MjQsLTg4Mzg3NjExMSwxNj
-QxODA2NDQxXX0=
+eyJoaXN0b3J5IjpbMTMwNDg5NzQxMiwtMTcwNzI4MTgyNCwtOD
+gzODc2MTExLDE2NDE4MDY0NDFdfQ==
 -->
