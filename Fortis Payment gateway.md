@@ -10,15 +10,11 @@
 
  ## DB Structure
 ### Card Transaction Log
+>**Order ID**
  
-|                |Column Name|HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|OrderID|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjkzMTExOTQsLTE3MDcyODE4MjQsLT
-g4Mzg3NjExMSwxNjQxODA2NDQxXX0=
+eyJoaXN0b3J5IjpbNjcxOTE3NzM5LC0xNzA3MjgxODI0LC04OD
+M4NzYxMTEsMTY0MTgwNjQ0MV19
 -->
